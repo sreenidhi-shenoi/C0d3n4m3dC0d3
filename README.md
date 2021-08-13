@@ -1,6 +1,6 @@
 <h1>Hi, I’m Sreenidhi!👋</h1>
   <i> 👀 I’m interested in Android App Development and Web Development.</i><br>
-  <i> 🌱 I’m currently doing my Masters in Computer Application at Amrita School of Arts and Sciences, Kochi.</i><br>
+  <i> 🌱 I’m currently doing my Masters in Computer Applications at Amrita School of Arts and Sciences, Kochi.</i><br>
   <i> 💞️ I'm curious about how different technologies work and love to look up random technologies at times!:grin:</i><br>
   <hr>
 <!---
