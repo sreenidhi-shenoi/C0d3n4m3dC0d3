@@ -1,7 +1,11 @@
 <h1>Hi, I’m Sreenidhi!👋</h1>
   &emsp;<i> 🌱&emsp;I’m currently doing my Masters in Computer Applications at Amrita School of Arts and Sciences, Kochi.</i><br>
-  &emsp;<i> 👀&emsp;I’m interested in Android App Development and Web Development.</i><br>
+  &emsp;<i> 👀&emsp;I’m interested in Software Development.</i><br>
   &emsp;<i> 💭&emsp;I'm curious about how different technologies work!</i><br>
+  &emsp;<i> 🌟&emsp;Somethings that I want to try out are:
+  &emsp;&emsp; - Comprehensive Frontend Development
+  &emsp;&emsp; - TALL Stack
+  &emsp;&emsp; - Game Development
   <hr>
   
 <!---
