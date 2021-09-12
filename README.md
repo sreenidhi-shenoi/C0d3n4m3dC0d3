@@ -3,9 +3,9 @@
   &emsp;<i> 👀&emsp;I’m interested in Software Development.</i><br>
   &emsp;<i> 💭&emsp;I'm curious about how different technologies work!</i><br>
   &emsp;<i> 🌟&emsp;Somethings that I want to try out are:
-  <br>&emsp;&emsp;- Comprehensive Frontend Development
-  <br>&emsp;&emsp;- TALL Stack
-  <br>&emsp;&emsp;- Game Development
+  <br>&emsp;&emsp;&emsp;&emsp; ▪️ Comprehensive Frontend Development
+  <br>&emsp;&emsp;&emsp;&emsp; ▪️ TALL Stack
+  <br>&emsp;&emsp;&emsp;&emsp; ▪️ Game Development
   <hr>
   
 <!---
