@@ -5,8 +5,6 @@
   &emsp;<i> 🌟&emsp;Some tools I want to learn:
   <br>&emsp;&emsp;&emsp;&emsp; ▪️ Laravel
   <br>&emsp;&emsp;&emsp;&emsp; ▪️ Blender
-  
-  <i>Linked In: https://www.linkedin.com/in/sreenidhi-shenoi/ </i>
   <hr>
   
   
