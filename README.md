@@ -2,7 +2,7 @@
   &emsp;<i> 🌱&emsp;I’m currently doing my Masters in Computer Applications at Amrita School of Arts and Sciences, Kochi.</i><br>
   &emsp;<i> 👀&emsp;I want to become a Software Developer.</i><br>
   &emsp;<i> 💭&emsp;I'm curious about how different technologies work!</i><br>
-  &emsp;<i> 🌟&emsp;Some tools I want to master:
+  &emsp;<i> 🌟&emsp;Some tools I want to learn:
   <br>&emsp;&emsp;&emsp;&emsp; ▪️ Laravel
   <br>&emsp;&emsp;&emsp;&emsp; ▪️ Blender
   <hr>
