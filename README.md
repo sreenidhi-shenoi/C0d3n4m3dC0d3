@@ -5,7 +5,10 @@
   &emsp;<i> 🌟&emsp;Some tools I want to learn:
   <br>&emsp;&emsp;&emsp;&emsp; ▪️ Laravel
   <br>&emsp;&emsp;&emsp;&emsp; ▪️ Blender
+  
+  <i>Linked In: https://www.linkedin.com/in/sreenidhi-shenoi/ </i>
   <hr>
+  
   
 <!---
 C0d3n4m3dC0d3/C0d3n4m3dC0d3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
