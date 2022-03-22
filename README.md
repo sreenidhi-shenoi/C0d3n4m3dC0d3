@@ -1,7 +1,14 @@
 <h2>Hi, I’m Sreenidhi!👋</h2>
   👩‍🎓 Currently pursuing Master's in Computer Applications.<br>
-  🧰 I love building software and am curious about how different technologies work.<br>
-  🖥️ I want to start my career as a Software Developer.<br>
+  🧰 Love building software and am intrigued about how different technologies work.<br>
+  🖥️ Want to start my career as a Software Developer.<br>
+  💡 I code in Python, C/C++ and Java.<br>
+  📖 I want to learn Laravel, Blender and the TALL Stack.<br>
+  <br><br>
+  <b>Something more...</b>
+  🔖 Love reading book series and my favourite genres include fiction, mystery and thriller.<br>
+  🎨 I also enjoy undertaking artistic projects like mural painting, glass painting and origami.<br>
+  ✍️ Whenever inspiration strikes, I also pen short stories, poems and reflections.<br>
   
 <!---
 C0d3n4m3dC0d3/C0d3n4m3dC0d3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
